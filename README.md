@@ -1,4 +1,4 @@
-# Selenium-Webdriver-Project
+# Ecommerce-Project
 This Selenium Webdriver Project tests an e-commerce website: http://automationpractice.com/index.php
 
 Download and unzip the directories and files to your computer. Follow below to run!
