@@ -1,5 +1,5 @@
 # Ecommerce-Project
-This Selenium Webdriver Project tests an e-commerce website: http://automationpractice.com/index.php
+Automated testing for an e-commerce website: http://automationpractice.com/index.php
 
 Download and unzip the directories and files to your computer. Follow below to run!
 
@@ -14,7 +14,7 @@ Download and unzip the directories and files to your computer. Follow below to r
 #### Three sections of the website are tested:
 1) Login Page
 2) Product Detail Page
-3) Shopping Cart
+3) Shopping Cart Page
 
 #### To run one test at a time, from the command-line, go to the tests folder and run any of these commands:
 ```
