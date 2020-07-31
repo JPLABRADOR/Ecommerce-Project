@@ -1,5 +1,7 @@
 # Ecommerce-Project
-Automated testing for an e-commerce website: http://automationpractice.com/index.php
+Automated testing for an e-commerce website. Testing focuses on the user workflow and functionality between the Login Page, Product Detail Page, and the Shopping Cart Page. Browser automation created using Python, Pytest, and Selenium WebDriver.
+
+website: http://automationpractice.com/index.php
 
 Download and unzip the directories and files to your computer. Follow below to run!
 
